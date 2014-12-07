@@ -1,0 +1,3 @@
+[submodule "lib/reflux"]
+	path = lib/reflux
+	url = https://github.com/spoike/refluxjs.git
