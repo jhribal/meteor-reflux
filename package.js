@@ -5,7 +5,7 @@ Package.describe({
   git: 'https://github.com/jaromirhribal/meteor-reflux.git'
 });
 
-var refluxVersion = "0.2.1";
+var refluxVersion = '0.2.1';
 
 Npm.depends({
   "reflux": refluxVersion
